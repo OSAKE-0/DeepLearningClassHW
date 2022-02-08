@@ -13,6 +13,7 @@ torch = "1.10.0"
 torchvision = "0.11.1"
 torchaudio = "0.10.0"
 skorch = "0.11.0"
+tqdm = "4.62.3"
 
 [dev-packages]
 ipykernel = "*"
