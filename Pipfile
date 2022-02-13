@@ -14,6 +14,12 @@ torchvision = "0.11.1"
 torchaudio = "0.10.0"
 skorch = "0.11.0"
 tqdm = "4.62.3"
+Pillow = "9.0.1"
+gym = "0.7.4"
+pyvirtualdisplay = "2.2"
+pyglet = "1.5.21"
+imageio-ffmpeg = "0.4.5"
+ipywidgets = "7.6.5"
 
 [dev-packages]
 ipykernel = "*"
